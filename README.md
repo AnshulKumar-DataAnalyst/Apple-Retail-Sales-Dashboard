@@ -1,5 +1,8 @@
 # 🍎 Apple Retail Sales Dashboard — Power BI
 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi)
+![Analytics](https://img.shields.io/badge/Project-Data%20Analytics-red)
+
 A multi-page interactive Power BI dashboard analyzing Apple's global retail sales data across products, stores, and markets from 2020 to 2024.
 
 ---
@@ -15,15 +18,14 @@ It covers 5 years of sales data across 75 active stores, 88 products, and multip
 ## 🖥️ Dashboard Pages
 
 ### 🏠 Home Page
-![Home](home.png)
+<img src="Screenshots of project Apple retail sales/1.png" width="100%">
 
 A clean navigation page with a summary of all 4 report sections — designed so any viewer can jump directly to what they need.
 
 ---
 
 ### 📊 Executive Summary
-![Executive Summary](executive_summary.png)
-
+<img src="Screenshots of project Apple retail sales/2.png" width="100%">
 **What's shown:**
 - 4 KPI cards: Total Revenue, Total Transactions, Average Order Value, Total Units Sold — each with YoY % change vs previous year
 - Monthly Revenue Trend with CY vs PY overlay (area + dotted line)
@@ -38,7 +40,7 @@ A clean navigation page with a summary of all 4 report sections — designed so 
 ---
 
 ### 📈 Sales Performance
-![Sales Performance](sales_performance.png)
+<img src="Screenshots of project Apple retail sales/3.png" width="100%">
 
 **What's shown:**
 - Revenue by Month line chart with month-on-month % change labels
@@ -53,7 +55,7 @@ A clean navigation page with a summary of all 4 report sections — designed so 
 ---
 
 ### 📦 Product Intelligence
-![Product Intelligence](product_intelligence.png)
+<img src="Screenshots of project Apple retail sales/4.png" width="100%">
 
 **What's shown:**
 - Total Products: 88
@@ -70,7 +72,7 @@ A clean navigation page with a summary of all 4 report sections — designed so 
 ---
 
 ### 🌍 Store & Market Analysis
-![Store & Market Analysis](store_market.png)
+<img src="Screenshots of project Apple retail sales/5.png" width="100%">
 
 **What's shown:**
 - Top Country by Revenue KPI (United States — $1.10B)
