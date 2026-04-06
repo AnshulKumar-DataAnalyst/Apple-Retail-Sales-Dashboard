@@ -18,14 +18,14 @@ It covers 5 years of sales data across 75 active stores, 88 products, and multip
 ## 🖥️ Dashboard Pages
 
 ### 🏠 Home Page
-<img src="Screenshots/1.png" width="100%">
+<img src="Screenshots of Dashboard/1.png" width="50%">
 
 A clean navigation page with a summary of all 4 report sections — designed so any viewer can jump directly to what they need.
 
 ---
 
 ### 📊 Executive Summary
-<img src="Screenshots/2.png" width="100%">
+<img src="Screenshots of Dashboard/2.png" width="50%">
 **What's shown:**
 - 4 KPI cards: Total Revenue, Total Transactions, Average Order Value, Total Units Sold — each with YoY % change vs previous year
 - Monthly Revenue Trend with CY vs PY overlay (area + dotted line)
@@ -40,7 +40,7 @@ A clean navigation page with a summary of all 4 report sections — designed so 
 ---
 
 ### 📈 Sales Performance
-<img src="Screenshots/3.png" width="100%">
+<img src="Screenshots of Dashboard/3.png" width="50%">
 
 **What's shown:**
 - Revenue by Month line chart with month-on-month % change labels
@@ -55,7 +55,7 @@ A clean navigation page with a summary of all 4 report sections — designed so 
 ---
 
 ### 📦 Product Intelligence
-<img src="Screenshots/4.png" width="100%">
+<img src="Screenshots of Dashboard/4.png" width="50%">
 
 **What's shown:**
 - Total Products: 88
@@ -72,7 +72,7 @@ A clean navigation page with a summary of all 4 report sections — designed so 
 ---
 
 ### 🌍 Store & Market Analysis
-<img src="Screenshots/5.png" width="100%">
+<img src="Screenshots of Dashboard/5.png" width="50%">
 
 **What's shown:**
 - Top Country by Revenue KPI (United States — $1.10B)
